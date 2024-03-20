@@ -1,5 +1,5 @@
 class Person:
-    def _init_(self):
+    def set_details(self):
         self.name = "John"
         self.age = 20
 
